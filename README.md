@@ -31,9 +31,11 @@
 >python3 ui_yolo.py  
 
 ## 如何训练
->详细请参考references中的链接。  
+>详细请参考references中的链接。
 
-
+## 测试素材
+https://pan.baidu.com/s/1Tn0Z1Nsm67B0UyKBmV1xag  
+提取码: 9drc   
 
 # References
 
