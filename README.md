@@ -37,6 +37,9 @@
 https://pan.baidu.com/s/1Tn0Z1Nsm67B0UyKBmV1xag  
 提取码: 9drc   
 
+## 视频演示
+https://www.bilibili.com/video/BV11N411r7Qp/?spm_id_from=333.999.0.0  
+
 # References
 
 https://github.com/we0091234/yolov7_plate  
