@@ -21,8 +21,8 @@
 
 ## 环境搭建
 
->git clone https://github.com/ultralytics/yolov5  # clone  
->cd yolov5  
+>git clone https://github.com/KaidongHe/YOLOv7-plate-rec  # clone  
+>cd  yolov7-plate-PyQt  
 >pip install -r requirements.txt  # install  
 
 ## 测试demo
