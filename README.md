@@ -30,7 +30,7 @@
 >cd yolov7-plate-PyQt  
 >python3 ui_yolo.py  
 
-## 训练
+## 如何训练
 >详细请参考references中的链接。  
 
 
